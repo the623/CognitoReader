@@ -1,5 +1,6 @@
 # CognitoReader PLEASE READ THIS FOR INSTALLATION INSTRUCTIONS
 Cognito Reader — Chrome  extension v1.2.0
+This extension **only** affects cognito.org and its subdomains.
 
 Firstly, press the green code button and press "download zip".
 
