@@ -1,7 +1,7 @@
 # CognitoReader PLEASE READ THIS FOR INSTALLATION INSTRUCTIONS
 Cognito Reader — Chrome  extension v1.2.0
 This extension **only** affects cognito.org and its subdomains.
-This extension bypass the Cognito note limit and the sign up message.
+This extension bypasses the Cognito note limit and the sign up message.
 
 Firstly, press the green code button and press "download zip".
 
