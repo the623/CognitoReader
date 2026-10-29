@@ -1,12 +1,14 @@
-# CognitoReader
-Cognito Reader — Chrome / Opera extension v1.2.0
+# CognitoReader PLEASE READ THIS FOR INSTALLATION INSTRUCTIONS
+Cognito Reader — Chrome  extension v1.2.0
+
+Firstly, press the green code button and press "download zip".
 
 INSTALL
 1. Extract Cognito_Reader_Chrome_Extension.zip.
 2. Open chrome://extensions in Chrome.
 3. Turn on Developer mode (top right).
 4. Click Load unpacked.
-5. Select the cognito-reader-extension folder containing manifest.json. DO NOT SELECT THE FIRST FOLDER, SELECT THE SECOND ONE.
+5. Select the cognito-reader-extension folder containing manifest.json. DO NOT SELECT THE FIRST FOLDER, SELECT THE SECOND ONE WITH THE FILES.
 6. Refresh your Cognito page.
 
 WHAT IT DOES
