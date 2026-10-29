@@ -6,7 +6,7 @@ INSTALL
 2. Open chrome://extensions in Chrome.
 3. Turn on Developer mode (top right).
 4. Click Load unpacked.
-5. Select the cognito-reader-extension folder containing manifest.json.
+5. Select the cognito-reader-extension folder containing manifest.json. DO NOT SELECT THE FIRST FOLDER, SELECT THE SECOND ONE.
 6. Refresh your Cognito page.
 
 WHAT IT DOES
