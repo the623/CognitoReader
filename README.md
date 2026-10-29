@@ -25,5 +25,3 @@ Automatically applies the console changes on https://cognito.org/:
 
 It runs locally, sends no data, uses no remote code, and has no analytics.
 It applies across Cognito pages and also removes decorative blur.
-It does not change server-side account permissions, enable disabled account
-features. Sign-up pages and unrelated notices are not targeted.
